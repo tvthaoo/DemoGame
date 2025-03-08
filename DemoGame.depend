@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1740243207 source:c:\users\tvtha\onedrive\desktop\testproject\demogame\main.cpp
+	<SDL.h>
+	<vector>
+	<cmath>
+
